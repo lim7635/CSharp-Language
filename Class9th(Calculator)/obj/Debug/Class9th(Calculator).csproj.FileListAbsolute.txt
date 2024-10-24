@@ -1,0 +1,10 @@
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\bin\Debug\Class9th(Calculator).exe.config
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\bin\Debug\Class9th(Calculator).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\bin\Debug\Class9th(Calculator).pdb
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th(Calculator).csproj.AssemblyReference.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th_Calculator_.Form1.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th_Calculator_.Properties.Resources.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th(Calculator).csproj.GenerateResource.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th(Calculator).csproj.CoreCompileInputs.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th(Calculator).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class9th(Calculator)\obj\Debug\Class9th(Calculator).pdb

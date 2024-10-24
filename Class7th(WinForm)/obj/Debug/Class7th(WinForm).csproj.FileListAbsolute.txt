@@ -1,0 +1,10 @@
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\bin\Debug\Class7th(WinForm).exe.config
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\bin\Debug\Class7th(WinForm).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\bin\Debug\Class7th(WinForm).pdb
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th(WinForm).csproj.AssemblyReference.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th_WinForm_.Form1.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th_WinForm_.Properties.Resources.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th(WinForm).csproj.GenerateResource.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th(WinForm).csproj.CoreCompileInputs.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th(WinForm).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class7th(WinForm)\obj\Debug\Class7th(WinForm).pdb

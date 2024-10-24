@@ -1,0 +1,14 @@
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\bin\Debug\net8.0\Class1th(Console).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\bin\Debug\net8.0\Class1th(Console).deps.json
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\bin\Debug\net8.0\Class1th(Console).runtimeconfig.json
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\bin\Debug\net8.0\Class1th(Console).dll
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\bin\Debug\net8.0\Class1th(Console).pdb
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).AssemblyInfoInputs.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).AssemblyInfo.cs
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).csproj.CoreCompileInputs.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).dll
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\refint\Class1th(Console).dll
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).pdb
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\Class1th(Console).genruntimeconfig.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class1th(Console)\obj\Debug\net8.0\ref\Class1th(Console).dll

@@ -1,0 +1,10 @@
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\bin\Debug\Class8th(Number Game).exe.config
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\bin\Debug\Class8th(Number Game).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\bin\Debug\Class8th(Number Game).pdb
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th(Number Game).csproj.AssemblyReference.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th_Number_Game_.Form1.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th_Number_Game_.Properties.Resources.resources
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th(Number Game).csproj.GenerateResource.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th(Number Game).csproj.CoreCompileInputs.cache
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th(Number Game).exe
+C:\Users\ju763\Desktop\CSharp-Language\Class8th(Number Game)\obj\Debug\Class8th(Number Game).pdb
